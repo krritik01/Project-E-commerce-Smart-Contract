@@ -1,7 +1,7 @@
 
 # Project Ethereum E-commerce Smart Contract
-
-This repository contains a Solidity smart contract for an Ethereum-based e-commerce platform. This smart contract enables users to register products for sale, purchase products, confirm product delivery, and allows the manager to destroy the contract.
+![63523accd4d7d-Decentralized-Ecommerce-Platform jpgDecentralized-Ecommerce-Platform](https://github.com/krritik01/Project-E-commerce-Smart-Contract/assets/98963769/ff07244d-d9d7-4d77-b5b9-1c14d46e01d4)
+This repository contains a Solidity smart contract for an Ethereum-based Ecommerce platform. This smart contract enables users to register products for sale, purchase products, confirm product delivery, and allows the manager to destroy the contract.
 
 ## Features
 ➡Product Registration: Users can register products for sale by providing a title, description, and price.
