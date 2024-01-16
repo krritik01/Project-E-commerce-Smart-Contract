@@ -48,6 +48,5 @@ This code is provided for informational and educational purposes only. Use it at
 [Documentation](https://ethereum.org/en/developers/docs/)
 
 
-## License
-This code is open-source and available under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details
+
 
